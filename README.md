@@ -86,6 +86,18 @@ https://www.bilibili.com/video/BV1na6wB6Ea2
 
 ---
 
+# 📚 开发者文档（docs/）
+
+如果你要二次开发/排障/部署，建议从 `docs/README.md` 开始：
+
+- 文档索引：[`docs/README.md`](./docs/README.md)
+- 本地快速上手：[`docs/guide/quick-start.md`](./docs/guide/quick-start.md)
+- 本地开发指南：[`docs/guide/local-development.md`](./docs/guide/local-development.md)
+- Electron 说明：[`docs/guide/electron.md`](./docs/guide/electron.md)
+- 后端与路由生成：[`docs/backend/overview.md`](./docs/backend/overview.md)
+
+---
+
 # 🚀 安装
 
 ## 前置条件
